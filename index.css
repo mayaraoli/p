@@ -1,0 +1,56 @@
+body{
+    background-color: #dbf6f6;
+    background-image: url(../img/agora.jpg);
+    
+}
+
+ body{margin: 70px;
+  border: 30px solid rgba(207, 231, 238, 0.6);
+  
+}
+p {
+    text-indent: 50px;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #95dbef;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #4a4a4a;
+  }
+  h1{
+  font-family: 'Croissant One', cursive;}
+  h3{
+    
+font-family: 'Nunito Sans', sans-serif;
+  }
+  p{
+    font-family: 'Roboto Mono', monospace;
+  }
+  footer{
+    text-align: center;
+    padding: 50px;
+    background-color: rgb(78, 76, 75);
+    color: rgb(0, 0, 0);
+    
+  }
+  img{
+    width: 150px;
+    height: 150px;
+  }
